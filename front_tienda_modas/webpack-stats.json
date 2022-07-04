@@ -1,0 +1,43 @@
+{
+  "status": "done",
+  "assets": {
+    "assets/images/1d11efb9412c54da8950.woff2": {
+      "name": "assets/images/1d11efb9412c54da8950.woff2",
+      "path": "C:\\Users\\User\\Desktop\\Tienda_de_modas\\tienda_de_modas\\front_tienda_modas\\dist\\assets\\images\\1d11efb9412c54da8950.woff2"
+    },
+    "assets/images/37c1c0d861a9bbf5439b.woff": {
+      "name": "assets/images/37c1c0d861a9bbf5439b.woff",
+      "path": "C:\\Users\\User\\Desktop\\Tienda_de_modas\\tienda_de_modas\\front_tienda_modas\\dist\\assets\\images\\37c1c0d861a9bbf5439b.woff"
+    },
+    "assets/main.8dbb4bc1e490ec931372.css": {
+      "name": "assets/main.8dbb4bc1e490ec931372.css",
+      "path": "C:\\Users\\User\\Desktop\\Tienda_de_modas\\tienda_de_modas\\front_tienda_modas\\dist\\assets\\main.8dbb4bc1e490ec931372.css"
+    },
+    "main.e7a2268577d7ce2aa7b1.js": {
+      "name": "main.e7a2268577d7ce2aa7b1.js",
+      "path": "C:\\Users\\User\\Desktop\\Tienda_de_modas\\tienda_de_modas\\front_tienda_modas\\dist\\main.e7a2268577d7ce2aa7b1.js"
+    },
+    "assets/images/9c4faee7513f87e9b3b3.png": {
+      "name": "assets/images/9c4faee7513f87e9b3b3.png",
+      "path": "C:\\Users\\User\\Desktop\\Tienda_de_modas\\tienda_de_modas\\front_tienda_modas\\dist\\assets\\images\\9c4faee7513f87e9b3b3.png"
+    },
+    "assets/images/8932205d8701217166c9.png": {
+      "name": "assets/images/8932205d8701217166c9.png",
+      "path": "C:\\Users\\User\\Desktop\\Tienda_de_modas\\tienda_de_modas\\front_tienda_modas\\dist\\assets\\images\\8932205d8701217166c9.png"
+    },
+    "assets/images/a4a49dfe20c4a1a2c681.png": {
+      "name": "assets/images/a4a49dfe20c4a1a2c681.png",
+      "path": "C:\\Users\\User\\Desktop\\Tienda_de_modas\\tienda_de_modas\\front_tienda_modas\\dist\\assets\\images\\a4a49dfe20c4a1a2c681.png"
+    },
+    "./index.html": {
+      "name": "./index.html",
+      "path": "C:\\Users\\User\\Desktop\\Tienda_de_modas\\tienda_de_modas\\front_tienda_modas\\dist\\index.html"
+    }
+  },
+  "chunks": {
+    "main": [
+      "assets/main.8dbb4bc1e490ec931372.css",
+      "main.e7a2268577d7ce2aa7b1.js"
+    ]
+  }
+}
